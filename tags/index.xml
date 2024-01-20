@@ -2,36 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jornal do Gremio</title>
-    <link>https://vno-hugo.netlify.app/tags/</link>
+    <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Jornal do Gremio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Jul 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://vno-hugo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Say Hi</title>
-      <link>https://vno-hugo.netlify.app/tags/say-hi/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
-      
-      <guid>https://vno-hugo.netlify.app/tags/say-hi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vno</title>
-      <link>https://vno-hugo.netlify.app/tags/vno/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
-      
-      <guid>https://vno-hugo.netlify.app/tags/vno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://vno-hugo.netlify.app/tags/hugo/</link>
-      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
-      
-      <guid>https://vno-hugo.netlify.app/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2024 17:53:17 -0300</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
